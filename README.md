@@ -9,8 +9,20 @@
   Covering SQL concepts from <b>basics to advanced</b>, with practical queries and interview-oriented practice
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+## 📄 PostgreSQL Notes (PDF)
 
+A complete, well-structured PostgreSQL guide covering **Basics → Advanced concepts**, including:
+- SQL fundamentals (DDL, DML, DQL)
+- Constraints & relationships
+- Joins, subqueries, CTEs
+- Window functions
+- Triggers & best practices
+- Interview-focused questions
+
+👉 **View / Download PDF:**  
+[📘 PostgreSQL Complete Mastery Guide](./assets/postgreSQL_notes.pdf)
+
+---
 
 ## 📘 About This Repository
 
@@ -23,7 +35,7 @@ It serves as:
 
 All queries are written while actively learning and experimenting with PostgreSQL.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 ## 🎯 Learning Goals
 
@@ -32,7 +44,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Practice **real-world data scenarios**
 - Prepare for **database-related interview questions**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ## 🧠 Topics Covered
@@ -45,7 +57,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - `ORDER BY`
 - `BETWEEN`, `IN`
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Constraints & Keys
@@ -56,7 +68,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - `UNIQUE`
 - `SERIAL` (auto-increment)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Table Relationships
@@ -65,7 +77,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Referential integrity
 - Foreign key behavior
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Joins
@@ -73,7 +85,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Multi-table joins
 - Practical relationship-based queries
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Aggregate Functions
@@ -83,7 +95,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - `ROUND`
 - Grouped data analysis
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 GROUP BY & HAVING
@@ -91,7 +103,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Analytical queries
 - Business-style summaries
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Conditional Logic
@@ -99,7 +111,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Categorizing values
 - Conditional calculations
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Views
@@ -107,7 +119,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - Simplifying complex queries
 - Read-only reporting queries
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Functions & Triggers
@@ -115,7 +127,7 @@ All queries are written while actively learning and experimenting with PostgreSQ
 - `BEFORE UPDATE` triggers
 - Enforcing business rules at the database level
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ### 🔹 Interview-Oriented Practice
@@ -126,7 +138,7 @@ This repository also includes SQL patterns commonly asked in interviews:
 - Conditional queries using `CASE`
 - Data validation using constraints and triggers
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ## 🚀 How to Use This Repository
@@ -136,7 +148,7 @@ This repository also includes SQL patterns commonly asked in interviews:
 - Modify queries to experiment
 - Use this repo for **revision before interviews**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ## 🧑‍💻 Author
@@ -145,7 +157,7 @@ This repository also includes SQL patterns commonly asked in interviews:
 Computer Science Engineering Undergraduate  
 Learning Databases & Backend Development  
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
 
 ⭐ *This repository represents my PostgreSQL learning progress from fundamentals to advanced concepts.*
