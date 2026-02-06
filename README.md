@@ -20,7 +20,7 @@ A complete, well-structured PostgreSQL guide covering **Basics → Advanced conc
 - Interview-focused questions
 
 👉 **View / Download PDF:**  
-[📘 PostgreSQL Complete Mastery Guide](./assets/postgreSQL_notes.pdf)
+<a href="https://drive.google.com/file/d/1NuhgzpwFmFNCM_3EMEAdRh-n87vgy0fg/view?usp=sharing">📘 PostgreSQL Complete Mastery Guide</a>
 
 ---
 
